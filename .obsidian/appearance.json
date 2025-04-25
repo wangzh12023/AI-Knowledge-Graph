@@ -1,0 +1,12 @@
+{
+  "accentColor": "#7e8be7",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tableStyles",
+    "table_of_contents",
+    "tag"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "cssTheme": "Blue Topaz"
+}

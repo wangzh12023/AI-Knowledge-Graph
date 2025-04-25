@@ -1,0 +1,7 @@
+
+
+- 二次规划_QuadraticProgramming
+- 内点法_InteriorPointMethods
+- 罚函数与增广拉格朗日法_PenaltyAndAugmentedLagrangianMethods
+- 交替方向乘子法_AlternatingDirectionMethodOfMultipliers
+- 投影梯度法_ProjectedGradientMethod

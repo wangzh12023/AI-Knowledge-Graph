@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "91f254568842deb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a030ddb08b7369b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4a1e56c7f11f41",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "937820badc3d8eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI"
+            }
+          },
+          {
+            "id": "8c4448d4d05c6b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weknow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weknow"
+            }
+          },
+          {
+            "id": "6b0dc934b42bf156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/依存分析_DependencyParsing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "依存分析_DependencyParsing"
+            }
+          },
+          {
+            "id": "7bd559f438f1aed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习_DeepLearning/循环神经网络_RecurrentNeuralNetwork.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "循环神经网络_RecurrentNeuralNetwork"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "013d2e816ea41463",
+    "type": "split",
+    "children": [
+      {
+        "id": "427ce33f85a6aa3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a17c7b4fca94f43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "af6f634c5ec2a84f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CFG",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f4e3444f6521e4cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.504695892334
+  },
+  "right": {
+    "id": "34a3f6d45bbc2745",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20960e3c89aadee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b9ab21673b9ad3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NLP/成分句法分析_ConstituencySyntacticParsing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "成分句法分析_ConstituencySyntacticParsing 的反向链接列表"
+            }
+          },
+          {
+            "id": "6ab27e32b3894635",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习日志/学习日志.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "学习日志 的出链列表"
+            }
+          },
+          {
+            "id": "cd8adc6a312f03f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f9b541392bae5e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习日志/学习日志.md"
+              },
+              "icon": "lucide-list",
+              "title": "学习日志 的大纲"
+            }
+          },
+          {
+            "id": "6fb798c2f5b024b7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "4aa8eef69057e679",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "937820badc3d8eea",
+  "lastOpenFiles": [
+    "README.md.md",
+    "README.md",
+    "AI.md",
+    "新建 文本文档.txt",
+    "数学基础_MathBasics/数学基础_MathBasics.md",
+    "temp.note.md",
+    "weknow.md",
+    "excalidraw 25-04-26 01.44.00.ex",
+    "2025-04-26.md",
+    "NLP/序列标注_SequenceLabeling.md",
+    "NLP/依存分析_DependencyParsing.md",
+    "深度学习_DeepLearning/循环神经网络_RecurrentNeuralNetwork.md",
+    "NLP/语义分析_SemanticAnalysis.md",
+    "tkwLab.md",
+    "NLP/assets/Pasted image 20250423105647.png",
+    "NLP/成分句法分析_ConstituencySyntacticParsing.md",
+    "NLP/assets/Pasted image 20250426005019.png",
+    "NLP/assets/Pasted image 20250426004853.png",
+    "NLP/assets/Pasted image 20250426004832.png",
+    "NLP/assets/Pasted image 20250425233951.png",
+    "NLP/assets/Pasted image 20250425233943.png",
+    "人工智能引论_IntroductionToAI/EM算法.md",
+    "NLP/assets/Pasted image 20250425223511.png",
+    "NLP/assets/Pasted image 20250425222600.png",
+    "NLP/assets/Pasted image 20250425220116.png",
+    "NLP/assets/Pasted image 20250425214152.png",
+    "人工智能引论_IntroductionToAI/概率模型_ProbabilisticModel/概率模型_ProbabilisticModel.md",
+    "人工智能引论_IntroductionToAI/概率模型_ProbabilisticModel/贝叶斯模型_BayesianModels.md",
+    "人工智能引论_IntroductionToAI/概率模型_ProbabilisticModel/贝叶斯网络_BayesianNetworks.md",
+    "机器学习_MachineLearning/构建机器学习算法_BuildingMachineLearningAlgorithms.md",
+    "数学基础_MathBasics/概率论与数理统计_ProbabilityAndStatistics/数理统计推断_StatisticalInference.md",
+    "NLP/文本表示_TextRepresentation.md",
+    "NLP/文本规范化_TextNormalization.md",
+    "NLP/自然语言处理_NLP.md",
+    "NLP/预训练语言模型_PretrainedLanguageModel.md",
+    "NLP/篇章分析_DiscourseAnalysis.md",
+    "NLP/语言模型_LanguageModel.md",
+    "NLP/nlp_tutorial.md",
+    "NLP/assets",
+    "机器学习_MachineLearning/assets",
+    "深度学习_DeepLearning/assets",
+    "数学基础_MathBasics/线性代数_LinearAlgebra/assets",
+    "数学基础_MathBasics/数值优化_NumericalOptimization",
+    "数学基础_MathBasics/线性代数_LinearAlgebra",
+    "数学基础_MathBasics/微积分_Calculus",
+    "强化学习_ReinforcementLearning",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

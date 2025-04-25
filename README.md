@@ -6,7 +6,8 @@
 
 > This project is a full-stack **Artificial Intelligence (AI) Knowledge Graph Vault** built with Obsidian. It covers a wide range of areas including machine learning, deep learning, reinforcement learning, mathematical foundations, numerical optimization, and more. Knowledge is connected through [[bidirectional links]] to help build a truly **scalable, visualized, and modular AI knowledge system**.
 
-  
+> [!note]🛠️ Project Status
+> This project is currently under active development. Some sections may be incomplete.
 
 ---
 
